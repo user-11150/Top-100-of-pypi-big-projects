@@ -17,7 +17,7 @@ PyPI 上最大的项目TOP100
 更新时间：{time.strftime("%B %Y, %d %H:%M:%S")}
 """
             f.write(header)
-            for idx, package in enumerate(sorted(top, key=lambda item: top[item]["size"]), start=1):
+            for idx, package in enumerate(sorted(top, key=lambda item: top[item]["size"], reverse=True), start=1):
                 print(f"{idx}. [{package} {top[package]['size'] / 1024 / 1024}MB](https://pypi.org/project/{package})", file=f)
         os.system(
             "git add .;"
