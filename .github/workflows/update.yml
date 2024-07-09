@@ -26,7 +26,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependency
-        run: pip install 
+        run: pip install aiohttp
       - name: Set github user
         run: git config user.name "user-11150"
       - name: Set github remote
