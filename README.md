@@ -1,9 +1,9 @@
 PyPI 上最大的项目TOP100
 
-更新时间：July 2024, 14 09:26:47
-1. [tf-nightly-intel 374804.76130485535MB](https://pypi.org/project/tf-nightly-intel)
-2. [lalsuite 333571.95499801636MB](https://pypi.org/project/lalsuite)
-3. [tf-nightly 329316.27248573303MB](https://pypi.org/project/tf-nightly)
+更新时间：July 2024, 14 09:34:47
+1. [tf-nightly-intel 373948.714758873MB](https://pypi.org/project/tf-nightly-intel)
+2. [lalsuite 332980.95823287964MB](https://pypi.org/project/lalsuite)
+3. [tf-nightly 332425.2847995758MB](https://pypi.org/project/tf-nightly)
 4. [tensorflow 328148.8635673523MB](https://pypi.org/project/tensorflow)
 5. [tf-nightly-cpu-aws 256618.16786193848MB](https://pypi.org/project/tf-nightly-cpu-aws)
 6. [tensorflow-gpu 226917.89085292816MB](https://pypi.org/project/tensorflow-gpu)
@@ -20,7 +20,7 @@ PyPI 上最大的项目TOP100
 17. [grpcio 69028.97090625763MB](https://pypi.org/project/grpcio)
 18. [cupy-cuda92 67869.27954387665MB](https://pypi.org/project/cupy-cuda92)
 19. [cupy-cuda100 66961.7597990036MB](https://pypi.org/project/cupy-cuda100)
-20. [tf-nightly-cpu 63248.44441127777MB](https://pypi.org/project/tf-nightly-cpu)
+20. [tf-nightly-cpu 63210.08151817322MB](https://pypi.org/project/tf-nightly-cpu)
 21. [cupy-cuda90 62958.57402038574MB](https://pypi.org/project/cupy-cuda90)
 22. [ray 62069.89130496979MB](https://pypi.org/project/ray)
 23. [catboost 55495.9736289978MB](https://pypi.org/project/catboost)
@@ -30,7 +30,7 @@ PyPI 上最大的项目TOP100
 27. [cupy-cuda101 52430.42321395874MB](https://pypi.org/project/cupy-cuda101)
 28. [mindspore-dev 51122.91772079468MB](https://pypi.org/project/mindspore-dev)
 29. [scipy 49663.64164638519MB](https://pypi.org/project/scipy)
-30. [pyAgrum-nightly 47363.22222137451MB](https://pypi.org/project/pyAgrum-nightly)
+30. [pyAgrum-nightly 47275.3680896759MB](https://pypi.org/project/pyAgrum-nightly)
 31. [opencv-contrib-python 45596.1184387207MB](https://pypi.org/project/opencv-contrib-python)
 32. [mindspore 44180.36641788483MB](https://pypi.org/project/mindspore)
 33. [opencv-python 40234.60464954376MB](https://pypi.org/project/opencv-python)
@@ -91,7 +91,7 @@ PyPI 上最大的项目TOP100
 88. [cupy-cuda110 19078.425513267517MB](https://pypi.org/project/cupy-cuda110)
 89. [monocdk 19018.53763771057MB](https://pypi.org/project/monocdk)
 90. [spacy 18993.945156097412MB](https://pypi.org/project/spacy)
-91. [duckdb 18831.728749275208MB](https://pypi.org/project/duckdb)
+91. [duckdb 18822.229707717896MB](https://pypi.org/project/duckdb)
 92. [itk-filtering 18699.103282928467MB](https://pypi.org/project/itk-filtering)
 93. [tensorflow-cpu-aws 18583.073291778564MB](https://pypi.org/project/tensorflow-cpu-aws)
 94. [xpress 18561.249257087708MB](https://pypi.org/project/xpress)
