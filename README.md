@@ -1,6 +1,6 @@
 PyPI 上最大的项目TOP100
 
-更新时间：July 2024, 15 21:16:43
+更新时间：July 2024, 15 21:26:01
 1. [tf-nightly-intel 374804.76130485535MB](https://pypi.org/project/tf-nightly-intel)
 2. [lalsuite 334162.95558547974MB](https://pypi.org/project/lalsuite)
 3. [tensorflow 328148.8635673523MB](https://pypi.org/project/tensorflow)
