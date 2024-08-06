@@ -1,8 +1,8 @@
 PyPI 上最大的项目TOP100
 
-更新时间：August 2024, 06 13:01:45
+更新时间：August 2024, 06 13:23:41
 1. [tf-nightly-intel 380892.3963737488MB](https://pypi.org/project/tf-nightly-intel)
-2. [lalsuite 346580.78593730927MB](https://pypi.org/project/lalsuite)
+2. [lalsuite 345989.15103530884MB](https://pypi.org/project/lalsuite)
 3. [tensorflow 328148.8635673523MB](https://pypi.org/project/tensorflow)
 4. [tf-nightly 290525.55628967285MB](https://pypi.org/project/tf-nightly)
 5. [tf-nightly-cpu-aws 256618.16786193848MB](https://pypi.org/project/tf-nightly-cpu-aws)
@@ -54,7 +54,7 @@ PyPI 上最大的项目TOP100
 51. [pyarrow 25996.779173851013MB](https://pypi.org/project/pyarrow)
 52. [jaxlib 25987.8025598526MB](https://pypi.org/project/jaxlib)
 53. [tf-gpu 25718.288752555847MB](https://pypi.org/project/tf-gpu)
-54. [homeassistant 25683.726851463318MB](https://pypi.org/project/homeassistant)
+54. [homeassistant 25626.15789794922MB](https://pypi.org/project/homeassistant)
 55. [botocore 25587.55694770813MB](https://pypi.org/project/botocore)
 56. [azureml-dataprep-rslex 24960.111367225647MB](https://pypi.org/project/azureml-dataprep-rslex)
 57. [pulumi-azure-native 24347.709208488464MB](https://pypi.org/project/pulumi-azure-native)
@@ -82,7 +82,7 @@ PyPI 上最大的项目TOP100
 79. [suitesparse-graphblas 19970.361107826233MB](https://pypi.org/project/suitesparse-graphblas)
 80. [ray-cpp 19961.88968372345MB](https://pypi.org/project/ray-cpp)
 81. [ctranslate2 19936.472283363342MB](https://pypi.org/project/ctranslate2)
-82. [home-assistant-frontend 19901.82119655609MB](https://pypi.org/project/home-assistant-frontend)
+82. [home-assistant-frontend 19846.840384483337MB](https://pypi.org/project/home-assistant-frontend)
 83. [onnxruntime-gpu 19645.54236316681MB](https://pypi.org/project/onnxruntime-gpu)
 84. [codeforlife-portal 19619.737740516663MB](https://pypi.org/project/codeforlife-portal)
 85. [nvidia-cudnn-cu12 19593.33869934082MB](https://pypi.org/project/nvidia-cudnn-cu12)
